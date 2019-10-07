@@ -8,7 +8,7 @@ import asyncio
 begin: 22.5.2019
 finish: 10.6.2019
 
-This program basically allows you to number of things. it allows you to send messages, create group chats and adding
+This program basically allows you to do number of things. it allows you to send messages, create group chats and adding
 users to it, send an image or a sticker and send your message in a time of your choice up to 24 hours.
 
 To start using the program you'll need three main things:
